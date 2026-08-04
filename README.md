@@ -155,6 +155,7 @@ This crate uses feature flags to gate board-specific code. When developing in an
 
 ## Announcements
 
+- [add Seed3 support, Async Flash etc(version `0.3.0`)](https://github.com/daisy-embassy/daisy-embassy/discussions/81)
 - [add Seed Rev4(AK4556) support(version `0.2.2`)](https://github.com/daisy-embassy/daisy-embassy/discussions/57)
 - [add Daisy Patch SM support(version `0.2.1`)](https://github.com/daisy-embassy/daisy-embassy/discussions/51)
 - [version `0.2.0`(and `0.1.0`)](https://github.com/daisy-embassy/daisy-embassy/discussions/42)
